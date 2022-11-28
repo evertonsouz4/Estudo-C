@@ -4,19 +4,6 @@ using namespace std;
 
 int main(){
 
-    cout << "Hello World\nCurso de C++" << endl;
-
-    return 0;
-}
-
-// -- Atribuindo variaveis -- //
-
-#include <iostream>
-
-using namespace std;
-
-int main(){
-
     int vidas = 0;
     char letra = 'B';
     double decimal = 5.2;
